@@ -10,7 +10,7 @@
 
   const I = '|'
   const J = '|/\''
-  const K = '|/\''
+  const K = '||/\''
   const L = '|_'
 
   const M = '|\/|'
