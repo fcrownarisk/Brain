@@ -1,4 +1,5 @@
 import '../tri/penrose'
+import '../air/XYZ'
 import '../tree/tree_iii'
 import '../tree/tree_iiii'
 export function even(){
