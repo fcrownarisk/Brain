@@ -8,14 +8,14 @@ import "./worldsheet66.js"
 import "./worldsheet77.js"
 import "./worldsheet88.js"
 import "./worldsheet99.js"
- export function worldsheet122(){
+export function worldsheet122(){
     return 'worldsheet1 % worldsheet22'
 }
 export function worldsheet2233(){
     return 'worldsheet22 % worldsheet33'
 }
 export function worldsheet3344(){
-    return  'worldsheet33 % worldsheet44'
+    return 'worldsheet33 % worldsheet44'
 }
 export function worldsheet4455(){
     return 'worldsheet44 % worldsheet55'
