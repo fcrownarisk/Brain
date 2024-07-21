@@ -25,6 +25,6 @@ typeof Uint16Array
 typeof Uint32Array
 typeof Uint8ClampedArray
 
-console.log('wonderland','bugyellow','RedClerk')
-console.log('BlueTable','Redpill','GreenCapsule')
-console.log('interface11','interface22','namespace11','namespace22')
+//console.log('wonderland','bugyellow','RedClerk')
+//console.log('BlueTable','Redpill','GreenCapsule')
+//console.log('interface11','interface22','namespace11','namespace22')
