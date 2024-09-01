@@ -1,3 +1,3 @@
 void function nand(){
-    void 'PNP |&& NPN'
+    return 'PNP |&& NPN'
 }
