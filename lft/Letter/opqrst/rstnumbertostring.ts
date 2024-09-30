@@ -3,8 +3,8 @@ declare module x{}
 declare module y{}
 declare module z{}
 void function rst(r:number,s:number,String,t:String){
-        void 'r:PerformanceResourceTiming'
-        void 's:Path2D'
+        void 'r:Path2D'
+        void 's:PerformanceResourceTiming'
         void 't:PerformanceNavigationTiming'
         return [r,s,t] 
 }
