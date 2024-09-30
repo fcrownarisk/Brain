@@ -9,15 +9,15 @@ void function Lie(){
     void `Pyramid2 Lie`
     void `sphere2 Lie`
 }
-void function Group1(){
+ function Group1(){
     return [`Dodecahedron + Icosahedron + Octaherdron + tetrahedron`]
 }
-void function Group2(){
+ function Group2(){
     return [`Dodecahedron - Icosahedron - Octaherdron - tetrahedron`]
 }
-void function Group3(){
+ function Group3(){
     return [`Dodecahedron * Icosahedron * Octaherdron * tetrahedron`]
 }
-void function Group4(){
+ function Group4(){
     return [`Dodecahedron % Icosahedron % Octaherdron % tetrahedron`]
 }
