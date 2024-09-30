@@ -5,13 +5,13 @@ import './return/returnnnnn'
 import './return/returnnnnnn'
 import './return/returnnnnnnn'
 import '../InventorySlot/Slot'
-void function returnnnnnnnn(){
-    void function returnnnnnn(){
-        void function returnnnnnn(){
-            void function returnnnnn(){
-                void function returnnnn(){
-                    void function returnnn(){
-                        void function returnn(){
+export function returnnnnnnnn(){
+    export function returnnnnnn(){
+        export function returnnnnnn(){
+            export function returnnnnn(){
+                export function returnnnn(){
+                    export function returnnn(){
+                        export function returnn(){
                         }
                         return returnnnnnnnn
                     }
