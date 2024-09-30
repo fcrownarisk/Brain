@@ -7,9 +7,11 @@
  import './tensor/midxtensor' 
  import './tensor/midytensor'
  import './tensor/midztensor'
- void function fermat() {
+function fermat() {
     const X = `BigXtensor + BigYtensor + BigZtensor`
     const Y = `midxtensor + midytensor + midztensor`
     const Z = `smallxtensor + smallytensor + smallztensor`
 }
-
+function XYZ(){
+   'X' ^ 2 + 'Y' ^ 2 == 'Z' ^ 2
+}
