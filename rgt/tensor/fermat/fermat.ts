@@ -11,6 +11,5 @@
     const X = `BigXtensor + BigYtensor + BigZtensor`
     const Y = `midxtensor + midytensor + midztensor`
     const Z = `smallxtensor + smallytensor + smallztensor`
-     console.log(X,Y,Z)
 }
 
