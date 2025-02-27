@@ -10,8 +10,8 @@ import '../Letter/cvgl/Bigletter/Q'
 import '../return/returnnnnnnn'
 void function x5(){
     for (let I = 0; I <= 4; ++I)
-       for (let J= 0;J <= 4; ++J)
-          for (let K= 0; K <= 4;++K)
+       for (let J = 0;J <= 4; ++J)
+          for (let K = 0; K <= 4;++K)
         console.log()
 }
 void function y5() {
