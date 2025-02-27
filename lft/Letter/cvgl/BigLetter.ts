@@ -10,17 +10,17 @@
 
  const I = '|'
  const J = '|/\''
- const K = '|/\''
+ const K = '|/.\''
  const L = '|_'
 
  const M = '|\/|'
  const N = '|\|'
- const O= '|-_|'
+ const O = '|-_|'
  const P = '||\/'
 
  const Q = '-|_|\''
  const R = '||)\''
- const S = '/\/\''
+ const S = '\/\/\''
  const T = '-|'
 
  const U = '|_|'
@@ -29,6 +29,6 @@
 
  const X ='\\.//'
  const Y = '\./|'
- const Z = '=/'
+ const Z = '-/_'
 console.log(A,B,C,D,E,F,G,H,O,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z)
 
