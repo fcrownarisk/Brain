@@ -19,7 +19,7 @@ import {InventorySlot} from "./InventorySlot1234"
          {axis: 't6', item: 'mnop'},
      ]
  }
-export  function InventorySlot7(){
+export function InventorySlot7(){
     return [
         {axis: 'x7', item: 'qrst'},
         {axis: 'y7', item: 'uvw'},
