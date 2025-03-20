@@ -1,9 +1,6 @@
-import "InventorySlot"
-import "return"
 import "tensor"
 import "color"
 import "112"
-import "XYZT"
 void function Iteration() {
     void 'AsyncIterable'
         ["tensor + color + 112"]
